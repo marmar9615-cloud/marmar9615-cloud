@@ -1,5 +1,5 @@
 <a href="https://marmarlabs.com/">
-  <img src="assets/banner.svg" alt="MarMar Labs — Build. Verify. Ship. AI products, open source, and security research. Minneapolis, Minnesota." width="100%" />
+  <img src="assets/banner.png" alt="MarMar Labs — Build. Verify. Ship. AI products, open source, and security research, alongside a metallic double-M emblem illuminated in violet." width="100%" />
 </a>
 
 # Hey, I'm Marcel.
