@@ -15,10 +15,10 @@ My work sits where **AI agents, developer tools, and real-world reliability** me
 | Project | What I'm building |
 | :--- | :--- |
 | **[SignAI](https://marmarlabs.com/signai/)** | An iPhone app for scanning, understanding, signing, and tracking agreements. Optional AI review, an agreement vault, and deadline reminders. **[On the App Store](https://apps.apple.com/us/app/signai/id6763717626)**. |
-| **[stui](https://github.com/marmar9615-cloud/stui-terminal)** | Streamlit-inspired interfaces that run in the terminal. Python widgets, session state, reruns, tables, and a full-screen data explorer, built on Textual. **[Install from PyPI](https://pypi.org/project/stui-terminal/)**. |
-| **[RetryProof](https://github.com/marmar9615-cloud/RetryProof)** | Deterministic retry-fault testing for n8n workflows. Human-approved invariants, AI-proposed repairs, and before/after replay evidence in a controlled lab. **[Try the lab](https://marmarlabs.com/retryproof/lab/)**. |
+| **[stui](https://github.com/MarMarLabs/stui-terminal)** | Streamlit-inspired interfaces that run in the terminal. Python widgets, session state, reruns, tables, and a full-screen data explorer, built on Textual. **[Install from PyPI](https://pypi.org/project/stui-terminal/)**. |
+| **[RetryProof](https://github.com/MarMarLabs/RetryProof)** | Deterministic retry-fault testing for n8n workflows. Human-approved invariants, AI-proposed repairs, and before/after replay evidence in a controlled lab. **[Try the lab](https://marmarlabs.com/retryproof/lab/)**. |
 | **[NeverGuess](https://marmarlabs.com/neverguess/)** | Preflight for AI-assisted code changes: architecture, risks, missing tests, rollout notes, and a better prompt before the agent starts editing. |
-| **[AgentBridge](https://github.com/marmar9615-cloud/agentbridge-protocol)** | An experimental action layer for agent-ready apps: typed manifests, permissioned MCP tools, confirmations, and audit logs. **[TypeScript SDK](https://www.npmjs.com/package/@marmarlabs/agentbridge-sdk)**. |
+| **[AgentBridge](https://github.com/MarMarLabs/agentbridge-protocol)** | An experimental action layer for agent-ready apps: typed manifests, permissioned MCP tools, confirmations, and audit logs. **[TypeScript SDK](https://www.npmjs.com/package/@marmarlabs/agentbridge-sdk)**. |
 | **[MarSWE-Bench](https://marmarlabs.com/marswe-bench/)** | An agentic coding benchmark with original multi-file debugging tasks across five languages, hidden behavioral tests, and a public score/cost leaderboard. |
 
 ## Contributing to
@@ -33,7 +33,7 @@ My work sits where **AI agents, developer tools, and real-world reliability** me
 | **[OpenClaw](https://github.com/openclaw/openclaw)** | **16** | [Send pairing approvals from the approved account](https://github.com/openclaw/openclaw/pull/137268); [respect configured Slack image limits](https://github.com/openclaw/openclaw/pull/134242). |
 | **[OpenHands](https://github.com/OpenHands/OpenHands)** | **7** | [Encode branch names in provider URLs](https://github.com/OpenHands/OpenHands/pull/17107); [correct remote URL port parsing](https://github.com/OpenHands/OpenHands/pull/16723). |
 
-[Browse my public merged pull requests →](https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3Amarmar9615-cloud&type=pullrequests)
+[Browse my public merged pull requests →](https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3AMarMarLabs&type=pullrequests)
 
 ## Security research
 
@@ -45,7 +45,7 @@ Find me on HackerOne as **[realmarmarlabs](https://hackerone.com/realmarmarlabs?
 
 ## Research & how I work
 
-**[Frontier AI stress-test audit](https://github.com/marmar9615-cloud/frontier-ai-stress-test-audit)** — a reproducibility-oriented collection of prompts, transcripts, artifacts, and verification notes on reasoning and code generation. An artifact-based audit, with its limitations documented. **[Read the preprint](https://doi.org/10.5281/zenodo.19779656)**.
+**[Frontier AI stress-test audit](https://github.com/MarMarLabs/frontier-ai-stress-test-audit)** — a reproducibility-oriented collection of prompts, transcripts, artifacts, and verification notes on reasoning and code generation. An artifact-based audit, with its limitations documented. **[Read the preprint](https://doi.org/10.5281/zenodo.19779656)**.
 
 I work across **Python, TypeScript/JavaScript, Go, React Native, and developer infrastructure**. I use AI coding tools heavily, then check the result against the actual application: reproduce the failure, make the smallest useful fix, and verify the behavior.
 
