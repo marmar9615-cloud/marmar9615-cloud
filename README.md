@@ -1,10 +1,11 @@
 <a href="https://marmarlabs.com/">
-  <img src="assets/banner.png" alt="MarMar Labs — Build. Verify. Ship. AI products, open source, and security research, alongside a metallic double-M emblem illuminated in violet." width="100%" />
+  <img src="assets/banner.png" alt="MarMarLabs — Build. Verify. Ship. AI products, open source, and security research, alongside a bold red double-M emblem on warm ivory." width="100%" />
+  <p>AI products · Open source · Security research</p>
 </a>
 
 # Hey, I'm Marcel.
 
-I run **[MarMar Labs](https://marmarlabs.com/)**, an independent software and research lab in Minneapolis, Minnesota. I build AI products, contribute fixes to the open-source tools I use, and do security research through HackerOne.
+I run **[MarMarLabs](https://marmarlabs.com/)**, an independent software and research lab in Minneapolis, Minnesota. I build AI products, contribute fixes to the open-source tools I use, and do security research through HackerOne.
 
 My work sits where **AI agents, developer tools, and real-world reliability** meet: making useful software, tracing what breaks, and backing up a fix with evidence.
 
